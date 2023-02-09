@@ -1,2 +1,1 @@
-# Prepcourse-Emilio
-este es un repositorio de modulo2 Prepcourse Emi
+prueba de como crear un repositorio y clonarlo desde github a mi computadora.
